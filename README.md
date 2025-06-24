@@ -185,14 +185,13 @@ My journey in cybersecurity has led me to develop expertise in threat detection,
 
 <div align="center">
 
-## 🏆 Certifications
+## 🏆 Certifications (in progress)
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-SOC%20Level%20%28TryHackMe%29-00bfff?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+<img src="https://img.shields.io/badge/-CISSP-0033A0?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCNA-1D63ED?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
 </div>
@@ -207,17 +206,14 @@ My journey in cybersecurity has led me to develop expertise in threat detection,
 <p>Ready to turn digital chaos into cyber clarity? Let's talk about how we can make the internet a safer place, one incident at a time.</p>
   
 <div>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/john-p-jacob">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@northeastern.edu">
+  <a href="mailto:jacob.john@northeastern.edu">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/yourusername">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://your-portfolio-website.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
