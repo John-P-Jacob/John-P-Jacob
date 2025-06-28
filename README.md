@@ -129,58 +129,59 @@ My journey in cybersecurity has led me to develop expertise in threat detection,
 
 ### 🌐 Network Security
 <div align="center">
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Metasploit-2596CD?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tcpdump-FF6347?&style=for-the-badge&logoColor=white" />
+    <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
+    <a href="https://suricata.io/"><img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /></a>
+    <a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/-Metasploit-2596CD?&style=for-the-badge&logoColor=white" /></a>
+    <a href="https://nmap.org/"><img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" /></a>
+    <a href="https://www.tcpdump.org/"><img src="https://img.shields.io/badge/-Tcpdump-FF6347?&style=for-the-badge&logoColor=white" /></a>
 </div>
 
 ### 💻 Endpoint Security
 <div align="center">
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-YARA-1E4A79?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CrowdStrike-E01F3D?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sysmon-5C2D91?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OSSEC-326CE5?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-3CBFFD?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-LimaCharlie-FF6B35?&style=for-the-badge&logoColor=white" />
+    <a href="https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint"><img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+    <a href="https://yara.readthedocs.io/"><img src="https://img.shields.io/badge/-YARA-1E4A79?&style=for-the-badge&logoColor=white" /></a>
+    <a href="https://www.crowdstrike.com/"><img src="https://img.shields.io/badge/-CrowdStrike-E01F3D?&style=for-the-badge&logoColor=white" /></a>
+    <a href="https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon"><img src="https://img.shields.io/badge/-Sysmon-5C2D91?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+    <a href="https://www.ossec.net/"><img src="https://img.shields.io/badge/-OSSEC-326CE5?&style=for-the-badge&logoColor=white" /></a>
+    <a href="https://wazuh.com/"><img src="https://img.shields.io/badge/-Wazuh-3CBFFD?&style=for-the-badge&logoColor=white" /></a>
+    <a href="https://www.limacharlie.io/"><img src="https://img.shields.io/badge/-LimaCharlie-FF6B35?&style=for-the-badge&logoColor=white" /></a>
 </div>
 
 ### 📊 SIEM & Analytics  
 <div align="center">
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-IBM_QRadar-1261FE?&style=for-the-badge&logo=IBM&logoColor=white" />
+    <a href="https://www.splunk.com/"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
+    <a href="https://www.elastic.co/"><img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /></a>
+    <a href="https://www.ibm.com/products/qradar-siem"><img src="https://img.shields.io/badge/-IBM_QRadar-1261FE?&style=for-the-badge&logo=IBM&logoColor=white" /></a>
 </div>
 
 ### 🔍 Digital Forensics
 <div align="center">
-    <img src="https://img.shields.io/badge/-Autopsy-FF0000?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-FTK_Imager-2E8B57?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Volatility-FF5722?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sleuth_Kit-8B4513?&style=for-the-badge&logoColor=white" />
+    <a href="https://www.sleuthkit.org/autopsy/"><img src="https://img.shields.io/badge/-Autopsy-FF0000?&style=for-the-badge&logoColor=white" /></a>
+    <a href="https://www.exterro.com/digital-forensics-software/ftk-imager"><img src="https://img.shields.io/badge/-FTK_Imager-2E8B57?&style=for-the-badge&logoColor=white" /></a>
+    <a href="https://www.volatilityfoundation.org/"><img src="https://img.shields.io/badge/-Volatility-FF5722?&style=for-the-badge&logoColor=white" /></a>
+    <a href="https://www.sleuthkit.org/"><img src="https://img.shields.io/badge/-Sleuth_Kit-8B4513?&style=for-the-badge&logoColor=white" /></a>
 </div>
 
 ### 🎯 Threat Intelligence
 <div align="center">
-    <img src="https://img.shields.io/badge/-TheHive-FF6600?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-YARA-1E4A79?&style=for-the-badge&logoColor=white" />
+    <a href="https://thehive-project.org/"><img src="https://img.shields.io/badge/-TheHive-FF6600?&style=for-the-badge&logoColor=white" /></a>
+    <a href="https://www.virustotal.com/"><img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logoColor=white" /></a>
+    <a href="https://yara.readthedocs.io/"><img src="https://img.shields.io/badge/-YARA-1E4A79?&style=for-the-badge&logoColor=white" /></a>
 </div>
+
 ### 🛡️ Web Application & Infrastructure Security
 <div align="center">
-    <img src="https://img.shields.io/badge/-Nessus-00C176?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OWASP_ZAP-00549E?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SAFEline_WAF-2E8B57?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=KaliLinux&logoColor=white" />
+    <a href="https://www.tenable.com/products/nessus"><img src="https://img.shields.io/badge/-Nessus-00C176?&style=for-the-badge&logoColor=white" /></a>
+    <a href="https://www.zaproxy.org/"><img src="https://img.shields.io/badge/-OWASP_ZAP-00549E?&style=for-the-badge&logoColor=white" /></a>
+    <a href="https://www.chaitin.cn/en/safeline"><img src="https://img.shields.io/badge/-SAFEline_WAF-2E8B57?&style=for-the-badge&logoColor=white" /></a>
+    <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=KaliLinux&logoColor=white" /></a>
 </div>
+
 ### ⚡ Scripting & Automation
 <div align="center">
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
-    
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /></a>
+    <a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" /></a>
+    <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" /></a>
 </div>
 
 <div align="center">
@@ -195,7 +196,6 @@ My journey in cybersecurity has led me to develop expertise in threat detection,
 </div>
 
 </div>
-
 
 <br>
 
