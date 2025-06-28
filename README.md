@@ -72,55 +72,36 @@ My journey in cybersecurity has led me to develop expertise in threat detection,
     </tr>
     <tr>
       <td>🔍 SIEM Implementation and Log Analysis</td>
-      <td><a href="https://github.com/yourusername/detection-lab">
-        <img src="https://img.shields.io/badge/Detection%20Lab-blue?style=for-the-badge&logo=github" />
+      <td><a href="https://github.com/John-P-Jacob/Active-Directory-SIEM-Integration-Lab">
+        <img src="https://img.shields.io/badge/Active%20Directory%20SIEM-blue?style=for-the-badge&logo=github" />
       </a></td>
     </tr>
     <tr>
-      <td>🌐 Network Traffic Monitoring and Attack Detection</td>
-      <td><a href="https://github.com/yourusername/detection-lab">
-        <img src="https://img.shields.io/badge/Detection%20Lab-blue?style=for-the-badge&logo=github" />
+      <td>🌐 Web Application Security & Traffic Analysis</td>
+      <td><a href="https://github.com/John-P-Jacob/Web-Application-Firewall-WAF-Home-Lab">
+        <img src="https://img.shields.io/badge/WAF%20Home%20Lab-green?style=for-the-badge&logo=github" />
       </a></td>
     </tr>
     <tr>
-      <td>🔬 Digital Forensics and Incident Analysis</td>
-      <td><a href="https://github.com/yourusername/forensics-lab">
-        <img src="https://img.shields.io/badge/Forensics%20Lab-green?style=for-the-badge&logo=github" />
+      <td>🔐 Hybrid Cryptography & Secure File Systems</td>
+      <td><a href="https://github.com/John-P-Jacob/Hybrid-Encryption-Based-Secure-File-Sharing-System-Using-AES-and-ECC">
+        <img src="https://img.shields.io/badge/Hybrid%20Encryption%20System-purple?style=for-the-badge&logo=github" />
       </a></td>
     </tr>
     <tr>
-      <td>🤖 Security Automation with Shuffle SOAR</td>
-      <td><a href="https://github.com/yourusername/soc-automation-lab">
-        <img src="https://img.shields.io/badge/SOC%20Automation-orange?style=for-the-badge&logo=github" />
+      <td>🚨 Incident Response & GRC</td>
+      <td><a href="https://github.com/John-P-Jacob/Incident-Response-Playbook-with-GRC">
+        <img src="https://img.shields.io/badge/Incident%20Response%20Playbook-red?style=for-the-badge&logo=github" />
       </a></td>
     </tr>
     <tr>
-      <td>🚨 Incident Response Planning and Execution</td>
-      <td><a href="https://github.com/yourusername/soc-automation-lab">
-        <img src="https://img.shields.io/badge/SOC%20Automation-orange?style=for-the-badge&logo=github" />
-      </a></td>
-    </tr>
-    <tr>
-      <td>🎯 Threat Intelligence and IOC Analysis</td>
-      <td><a href="https://github.com/yourusername/threat-intelligence-lab">
-        <img src="https://img.shields.io/badge/Threat%20Intel-red?style=for-the-badge&logo=github" />
-      </a></td>
-    </tr>
-    <tr>
-      <td>🦠 Malware Analysis and Reverse Engineering</td>
-      <td><a href="https://github.com/yourusername/malware-analysis-lab">
-        <img src="https://img.shields.io/badge/Malware%20Analysis-purple?style=for-the-badge&logo=github" />
-      </a></td>
-    </tr>
-    <tr>
-      <td>⚡ Scripting and Automation for Threat Mitigation</td>
-      <td><a href="https://github.com/yourusername/soc-automation-lab">
-        <img src="https://img.shields.io/badge/SOC%20Automation-orange?style=for-the-badge&logo=github" />
+      <td>📊 Network Analysis & Reporting</td>
+      <td><a href="https://github.com/John-P-Jacob/MBRA-network-analysis">
+        <img src="https://img.shields.io/badge/MBRA%20Network%20Analysis-teal?style=for-the-badge&logo=github" />
       </a></td>
     </tr>
   </table>
 </div>
-
 <div align="center">
 
 ## 🧰 Tech Arsenal
