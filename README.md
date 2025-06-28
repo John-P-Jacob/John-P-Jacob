@@ -193,7 +193,7 @@ My journey in cybersecurity has led me to develop expertise in threat detection,
   <a href="mailto:jacob.john@northeastern.edu">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/John-P-Jacob">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
