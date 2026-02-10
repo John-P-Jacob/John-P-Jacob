@@ -102,7 +102,7 @@ My journey in cybersecurity has led me to develop expertise in threat detection,
     </tr>
     <tr>
       <td>⚡ Security Orchestration, Automation & Response (SOAR)</td>
-      <td><a href="https://github.com/John-P-Jacob/SOAR-EDR-Integration-Lab">
+      <td><a href="https://github.com/John-P-Jacob/Security-Orchestration-Automation-and-Response-SOAR-EDR-Integration">
         <img src="https://img.shields.io/badge/SOAR%20+%20EDR%20Integration-orange?style=for-the-badge&logo=slack&logoColor=white" />
       </a></td>
     </tr>
@@ -114,7 +114,7 @@ My journey in cybersecurity has led me to develop expertise in threat detection,
     </tr>
     <tr>
       <td>🔬 Digital Forensics & Incident Response (DFIR)</td>
-      <td><a href="https://github.com/John-P-Jacob/Digital-Forensics-Investigation">
+      <td><a href="https://github.com/John-P-Jacob/Digital-Forensics-Investigation-Corporate-Data-Exfiltration-Case">
         <img src="https://img.shields.io/badge/Digital%20Forensics%20Investigation-crimson?style=for-the-badge&logo=windows&logoColor=white" />
       </a></td>
     </tr>
