@@ -73,35 +73,54 @@ My journey in cybersecurity has led me to develop expertise in threat detection,
     <tr>
       <td>🔍 SIEM Implementation and Log Analysis</td>
       <td><a href="https://github.com/John-P-Jacob/Active-Directory-SIEM-Integration-Lab">
-        <img src="https://img.shields.io/badge/Active%20Directory%20SIEM-blue?style=for-the-badge&logo=github" />
+        <img src="https://img.shields.io/badge/Active%20Directory%20SIEM-blue?style=for-the-badge&logo=splunk&logoColor=white" />
       </a></td>
     </tr>
     <tr>
       <td>🌐 Web Application Security & Traffic Analysis</td>
       <td><a href="https://github.com/John-P-Jacob/Web-Application-Firewall-WAF-Home-Lab">
-        <img src="https://img.shields.io/badge/WAF%20Home%20Lab-green?style=for-the-badge&logo=github" />
+        <img src="https://img.shields.io/badge/WAF%20Home%20Lab-green?style=for-the-badge&logo=fortinet&logoColor=white" />
       </a></td>
     </tr>
     <tr>
       <td>🔐 Hybrid Cryptography & Secure File Systems</td>
       <td><a href="https://github.com/John-P-Jacob/Hybrid-Encryption-Based-Secure-File-Sharing-System-Using-AES-and-ECC">
-        <img src="https://img.shields.io/badge/Hybrid%20Encryption%20System-purple?style=for-the-badge&logo=github" />
+        <img src="https://img.shields.io/badge/Hybrid%20Encryption%20System-purple?style=for-the-badge&logo=openssl&logoColor=white" />
       </a></td>
     </tr>
     <tr>
       <td>🚨 Incident Response & GRC</td>
       <td><a href="https://github.com/John-P-Jacob/Incident-Response-Playbook-with-GRC">
-        <img src="https://img.shields.io/badge/Incident%20Response%20Playbook-red?style=for-the-badge&logo=github" />
+        <img src="https://img.shields.io/badge/Incident%20Response%20Playbook-red?style=for-the-badge&logo=amazon-aws&logoColor=white" />
       </a></td>
     </tr>
     <tr>
       <td>📊 Network Analysis & Reporting</td>
       <td><a href="https://github.com/John-P-Jacob/MBRA-network-analysis">
-        <img src="https://img.shields.io/badge/MBRA%20Network%20Analysis-teal?style=for-the-badge&logo=github" />
+        <img src="https://img.shields.io/badge/MBRA%20Network%20Analysis-teal?style=for-the-badge&logo=python&logoColor=white" />
+      </a></td>
+    </tr>
+    <tr>
+      <td>⚡ Security Orchestration, Automation & Response (SOAR)</td>
+      <td><a href="https://github.com/John-P-Jacob/SOAR-EDR-Integration-Lab">
+        <img src="https://img.shields.io/badge/SOAR%20+%20EDR%20Integration-orange?style=for-the-badge&logo=slack&logoColor=white" />
+      </a></td>
+    </tr>
+    <tr>
+      <td>🏗️ Enterprise Network Security Architecture</td>
+      <td><a href="https://github.com/John-P-Jacob/Enterprise-Network-Security-Architecture">
+        <img src="https://img.shields.io/badge/Network%20Security%20Architecture-navy?style=for-the-badge&logo=cisco&logoColor=white" />
+      </a></td>
+    </tr>
+    <tr>
+      <td>🔬 Digital Forensics & Incident Response (DFIR)</td>
+      <td><a href="https://github.com/John-P-Jacob/Digital-Forensics-Investigation">
+        <img src="https://img.shields.io/badge/Digital%20Forensics%20Investigation-crimson?style=for-the-badge&logo=windows&logoColor=white" />
       </a></td>
     </tr>
   </table>
 </div>
+
 <div align="center">
 
 ## 🧰 Tech Arsenal
@@ -141,6 +160,14 @@ My journey in cybersecurity has led me to develop expertise in threat detection,
     <a href="https://www.exterro.com/digital-forensics-software/ftk-imager"><img src="https://img.shields.io/badge/-FTK_Imager-2E8B57?&style=for-the-badge&logoColor=white" /></a>
     <a href="https://www.volatilityfoundation.org/"><img src="https://img.shields.io/badge/-Volatility-FF5722?&style=for-the-badge&logoColor=white" /></a>
     <a href="https://www.sleuthkit.org/"><img src="https://img.shields.io/badge/-Sleuth_Kit-8B4513?&style=for-the-badge&logoColor=white" /></a>
+    <a href="https://ericzimmerman.github.io/"><img src="https://img.shields.io/badge/-Zimmerman_Tools-4B0082?&style=for-the-badge&logoColor=white" /></a>
+    <a href="https://usbdetective.com/"><img src="https://img.shields.io/badge/-USBDetective-2F4F4F?&style=for-the-badge&logoColor=white" /></a>
+</div>
+
+### ⚙️ SOAR & Automation Platforms
+<div align="center">
+    <a href="https://www.tines.com/"><img src="https://img.shields.io/badge/-Tines_SOAR-4ECDC4?&style=for-the-badge&logoColor=white" /></a>
+    <a href="https://shuffler.io/"><img src="https://img.shields.io/badge/-Shuffle_SOAR-FF6B6B?&style=for-the-badge&logoColor=white" /></a>
 </div>
 
 ### 🎯 Threat Intelligence
@@ -167,13 +194,13 @@ My journey in cybersecurity has led me to develop expertise in threat detection,
 
 <div align="center">
 
-## 🏆 Certifications (in progress)
+## 🏆 Certifications
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-SOC%20Level%20%28TryHackMe%29-00bfff?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
-<img src="https://img.shields.io/badge/-CISSP-0033A0?&style=for-the-badge&logo=ISC2&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCNA-1D63ED?&style=for-the-badge&logo=Cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-ISC2%20CC-00A651?&style=for-the-badge&logo=isc2&logoColor=white" />
+<img src="https://img.shields.io/badge/-SOC%20Level%201%20(TryHackMe)-00bfff?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B%20(In%20Progress)-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-GIAC%20GCFE%20(In%20Progress)-0033A0?&style=for-the-badge&logoColor=white" />
 </div>
 
 </div>
