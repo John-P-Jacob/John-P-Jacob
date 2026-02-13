@@ -55,7 +55,7 @@
 ## 🎯 Objective
 
 <p style="max-width: 600px; margin: 0 auto; line-height: 1.6;">
-My journey in cybersecurity has led me to develop expertise in threat detection, digital forensics, and incident response. I am eager to apply my academic knowledge and hands-on lab experience in a professional setting, specifically targeting roles as a <strong>SOC Analyst</strong>, <strong>Forensic Analyst</strong>, or <strong>Threat Responder</strong>.
+My journey in cybersecurity has led me to develop expertise in threat detection, digital forensics, incident response, and network infrastructure. I am eager to apply my academic knowledge and hands-on lab experience in a professional setting, specifically targeting roles as a <strong>SOC Analyst</strong>, <strong>Forensic Analyst</strong>, <strong>Network Engineer</strong>, or <strong>Threat Responder</strong>.
 </p>
 
 </div>
@@ -74,6 +74,18 @@ My journey in cybersecurity has led me to develop expertise in threat detection,
       <td>🔍 SIEM Implementation and Log Analysis</td>
       <td><a href="https://github.com/John-P-Jacob/Active-Directory-SIEM-Integration-Lab">
         <img src="https://img.shields.io/badge/Active%20Directory%20SIEM-blue?style=for-the-badge&logo=splunk&logoColor=white" />
+      </a></td>
+    </tr>
+    <tr>
+      <td>🌐 BGP/OSPF Routing & Multi-AS Network Design</td>
+      <td><a href="https://github.com/John-P-Jacob/Multi-AS-BGP-OSPF-Routing-Lab">
+        <img src="https://img.shields.io/badge/BGP%20%2B%20OSPF%20Routing%20Lab-2962FF?style=for-the-badge&logo=cisco&logoColor=white" />
+      </a></td>
+    </tr>
+    <tr>
+      <td>⚡ Network Automation — Python, Ansible & Netmiko</td>
+      <td><a href="https://github.com/John-P-Jacob/Network-Deployment-Automation-Platform">
+        <img src="https://img.shields.io/badge/Network%20Deployment%20Automation-FF6D00?style=for-the-badge&logo=ansible&logoColor=white" />
       </a></td>
     </tr>
     <tr>
@@ -127,13 +139,17 @@ My journey in cybersecurity has led me to develop expertise in threat detection,
 
 </div>
 
-### 🌐 Network Security
+### 🌐 Network Security & Routing
 <div align="center">
     <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
     <a href="https://suricata.io/"><img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /></a>
     <a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/-Metasploit-2596CD?&style=for-the-badge&logoColor=white" /></a>
     <a href="https://nmap.org/"><img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" /></a>
     <a href="https://www.tcpdump.org/"><img src="https://img.shields.io/badge/-Tcpdump-FF6347?&style=for-the-badge&logoColor=white" /></a>
+    <a href="https://www.rfc-editor.org/rfc/rfc4271"><img src="https://img.shields.io/badge/-BGP-2962FF?&style=for-the-badge&logo=cisco&logoColor=white" /></a>
+    <a href="https://www.rfc-editor.org/rfc/rfc2328"><img src="https://img.shields.io/badge/-OSPF-00C853?&style=for-the-badge&logo=cisco&logoColor=white" /></a>
+    <a href="https://containerlab.dev/"><img src="https://img.shields.io/badge/-Containerlab-FF6D00?&style=for-the-badge&logo=docker&logoColor=white" /></a>
+    <a href="https://frrouting.org/"><img src="https://img.shields.io/badge/-FRR-8E24AA?&style=for-the-badge&logoColor=white" /></a>
 </div>
 
 ### 💻 Endpoint Security
@@ -168,6 +184,7 @@ My journey in cybersecurity has led me to develop expertise in threat detection,
 <div align="center">
     <a href="https://www.tines.com/"><img src="https://img.shields.io/badge/-Tines_SOAR-4ECDC4?&style=for-the-badge&logoColor=white" /></a>
     <a href="https://shuffler.io/"><img src="https://img.shields.io/badge/-Shuffle_SOAR-FF6B6B?&style=for-the-badge&logoColor=white" /></a>
+    <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/-Ansible-EE0000?&style=for-the-badge&logo=ansible&logoColor=white" /></a>
 </div>
 
 ### 🎯 Threat Intelligence
@@ -190,6 +207,9 @@ My journey in cybersecurity has led me to develop expertise in threat detection,
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /></a>
     <a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" /></a>
     <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" /></a>
+    <a href="https://github.com/ktbyers/netmiko"><img src="https://img.shields.io/badge/-Netmiko-FF6D00?&style=for-the-badge&logo=python&logoColor=white" /></a>
+    <a href="https://napalm.readthedocs.io/"><img src="https://img.shields.io/badge/-NAPALM-00C853?&style=for-the-badge&logo=python&logoColor=white" /></a>
+    <a href="https://jinja.palletsprojects.com/"><img src="https://img.shields.io/badge/-Jinja2-B41717?&style=for-the-badge&logo=jinja&logoColor=white" /></a>
 </div>
 
 <div align="center">
@@ -200,6 +220,8 @@ My journey in cybersecurity has led me to develop expertise in threat detection,
 <img src="https://img.shields.io/badge/-ISC2%20CC-00A651?&style=for-the-badge&logo=isc2&logoColor=white" />
 <img src="https://img.shields.io/badge/-SOC%20Level%201%20(TryHackMe)-00bfff?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B%20(In%20Progress)-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B%20(In%20Progress)-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCNA%20(Target%202026)-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-GIAC%20GCFE%20(In%20Progress)-0033A0?&style=for-the-badge&logoColor=white" />
 </div>
 
